@@ -1,0 +1,52 @@
+.title{
+    color: rgb(89, 73, 53);
+    text-align: center;
+}
+
+.empty{
+    text-align: center;
+}
+
+.input{
+    flex: 1;
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid rgb(136, 119, 98);
+    border-radius: 4px;
+}
+
+.app-container{
+    max-width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: rgb(245, 220, 186);
+    border: 1px solid rgb(136, 119, 98);
+    border-radius: 4px;
+
+}
+
+.form-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.add-button{
+    background-color: rgb(73, 64, 52);
+    border: none;
+    border-radius: 4px;
+    color: beige;
+    padding: 10px 20px;
+    cursor: pointer; 
+}
+
+.remove-button{
+
+    background-color: rgb(73, 64, 52);
+    border: none;
+    border-radius: 4px;
+    color: beige;
+    padding: 10px 20px;
+    cursor: pointer; 
+    margin: 10px;
+}
